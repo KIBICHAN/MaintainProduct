@@ -1,0 +1,10 @@
+D:\Study\PRN292\MaintainProducts\MaintainProducts\bin\Debug\MaintainProducts.exe.config
+D:\Study\PRN292\MaintainProducts\MaintainProducts\bin\Debug\MaintainProducts.exe
+D:\Study\PRN292\MaintainProducts\MaintainProducts\bin\Debug\MaintainProducts.pdb
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.csprojAssemblyReference.cache
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.frmMain.resources
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.Properties.Resources.resources
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.csproj.GenerateResource.cache
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.csproj.CoreCompileInputs.cache
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.exe
+D:\Study\PRN292\MaintainProducts\MaintainProducts\obj\Debug\MaintainProducts.pdb
